@@ -118,7 +118,7 @@
 
     Using single example is known as one-shot inference in contrast to the earlier zero shot inference.
 
-    Sometimes single example is not well enough for the model to learn whar we want. So, we can include multiple examples.
+    Sometimes single example is not well enough for the model to learn what we want. So, we can include multiple examples.
     This is known as few-shot inference.
     Example:
     Classify this review: I loved this movie!. Sentiment:Positive.  Classify this review: I don't like this chair. Sentiment: Negative. Classify this review: This is not great. Sentiment:
